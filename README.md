@@ -1,37 +1,22 @@
-# **PROJECT NAME HERE**
+# roman_numerals
+### _This project is not in a complete or portfolio ready state, and should not be considered representational of professional work._<br><br>
+[Epicodus](https://www.epicodus.com/) - Introduction to Programming - Week 03 - Lesson 32<br><br>
 
-## **Project Description**
+Initialization Date: 2020-10-29
+## Project Description
+### _Practice Exercise:_<br>
+This project is an exercise in practicing test driven development (TDD).
 
-## **Required for Use**
+## Authors and Contributors
+Authored by: Randel Moore, Kaila Sprague McRae.
 
-## **Installation Instructions**
+## Contact
+RMGit.it@gmail.com
 
-## **Usage / Examples**
-
-## **Planned Features**
-
-## **Known Bugs**
-
-## **Technology Used**
-
-## **Authors and Contributors**
-
-## **Contact**
-
-## **License**
+## License
 
 GPLv3
 
 Randel Moore © 2020
-
-## **Project Status**
-
-
-## **Tests/Specs**
-
-Description: romanNumerals()
-
-Test: 
-Expect:
 
 
